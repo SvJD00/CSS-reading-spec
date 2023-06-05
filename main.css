@@ -1,0 +1,146 @@
+h1 {
+    margin: 20px 20px 15px 20px;
+    width: fit-content;
+    border-style: solid;
+    border-color: black;
+    font-size: 70px;
+}
+
+h2 {
+    border-style: solid;
+    border-color: black;
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+    margin: 30px 250px;
+}
+
+.navanchor {
+    font-size: 40px;
+}
+
+.topsite {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 20px 0px 20px;
+}
+
+.signup {
+    font-size: 30px;
+    margin: 20px;
+    height: 40px;
+    border-style: solid;
+    border-color: black;
+}
+
+.topnav {
+    border-bottom: solid;
+    border-top: solid;
+    display: flex;
+    justify-content: space-around;
+}
+
+.article-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.signature {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#author {
+    font-size: 26px;
+    margin: 0px 0px 40px;
+}
+
+.socialicons {
+    margin: 0px 0px 30px 1100px;
+}
+
+.socialicon {
+    width: 40px;
+    height: 40px;
+}
+
+.article-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    margin-left: 540px;
+}
+
+.article-img {
+    width: 1540px;
+    height: 540px;
+}
+
+h3 {
+   margin-right: 700px;
+   margin-bottom: 10px;
+   font-size: 40px;
+}
+
+h4 {
+    margin-right: 700px;
+    margin-bottom: 10px;
+    font-size: 40px;
+ }
+
+.loreipsum {
+    font-size: 28px;
+    margin-top: 0px;
+    display: flex;
+ }
+
+ .relatable {
+    display: flex;
+    flex-direction: row;
+ }
+
+ h5 {
+    margin-left: 40px;
+    font-size: 28px;
+ }
+
+ .more-info {
+    border-style: solid;
+ }
+
+.more-list {
+    font-size: 24px;
+}
+
+li {
+    font-size: 24px;
+    color: blue;
+}
+
+.footer {
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    border-style: solid;
+    height: 100px;
+    width: 400px;
+}
+
+.footer-anchors {
+    font-size: 24px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 1500px;
+}
